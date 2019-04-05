@@ -1,12 +1,12 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))**
+* **[MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))**
 * [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 * [MyWizardCustomizationService.cs](./CS/MyWizardCustomizationService.cs) (VB: [MyWizardCustomizationService.vb](./VB/MyWizardCustomizationService.vb))
-* [UseServicesRegistry.xaml](./CS/UseServicesRegistry.xaml) (VB: [UseServicesRegistry.xaml.vb](./VB/UseServicesRegistry.xaml.vb))
+* [UseServicesRegistry.xaml](./CS/UseServicesRegistry.xaml) (VB: [UseServicesRegistry.xaml](./VB/UseServicesRegistry.xaml))
 * [UseServicesRegistry.xaml.cs](./CS/UseServicesRegistry.xaml.cs) (VB: [UseServicesRegistry.xaml.vb](./VB/UseServicesRegistry.xaml.vb))
-* [UseWizardCustomization.xaml](./CS/UseWizardCustomization.xaml) (VB: [UseWizardCustomization.xaml.vb](./VB/UseWizardCustomization.xaml.vb))
+* [UseWizardCustomization.xaml](./CS/UseWizardCustomization.xaml) (VB: [UseWizardCustomization.xaml](./VB/UseWizardCustomization.xaml))
 * [UseWizardCustomization.xaml.cs](./CS/UseWizardCustomization.xaml.cs) (VB: [UseWizardCustomization.xaml.vb](./VB/UseWizardCustomization.xaml.vb))
 <!-- default file list end -->
 # Report Designer for WPF - How to disable the master-detail functionality in the Report Wizard
