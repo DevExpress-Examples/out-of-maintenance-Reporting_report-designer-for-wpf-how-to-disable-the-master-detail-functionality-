@@ -14,14 +14,14 @@ Imports System.Windows.Navigation
 Imports System.Windows.Shapes
 
 Namespace DisableMasterDetailWizard
-    ''' <summary>
-    ''' Interaction logic for UseServicesRegistry.xaml
-    ''' </summary>
-    Partial Public Class UseServicesRegistry
-        Inherits UserControl
+	''' <summary>
+	''' Interaction logic for UseServicesRegistry.xaml
+	''' </summary>
+	Partial Public Class UseServicesRegistry
+		Inherits UserControl
 
-        Public Sub New()
-            InitializeComponent()
-        End Sub
-    End Class
+		Public Sub New()
+			InitializeComponent()
+		End Sub
+	End Class
 End Namespace
