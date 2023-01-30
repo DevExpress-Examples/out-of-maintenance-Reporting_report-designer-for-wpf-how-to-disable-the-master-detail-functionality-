@@ -1,13 +1,12 @@
-﻿Imports System.Windows.Controls
+Imports System.Windows.Controls
 
 Namespace DisableMasterDetailWizard
-	Partial Public Class UseWizardCustomization
-		Inherits UserControl
 
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+    Public Partial Class UseWizardCustomization
+        Inherits UserControl
 
-
+        Public Sub New()
+            Me.InitializeComponent()
+        End Sub
+    End Class
 End Namespace
