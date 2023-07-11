@@ -6,7 +6,7 @@
              xmlns:dxrud="http://schemas.devexpress.com/winfx/2008/xaml/reports/userdesigner"
              xmlns:dxrudw="http://schemas.devexpress.com/winfx/2008/xaml/reports/userdesigner/wizard"
              xmlns:dxda="http://schemas.devexpress.com/winfx/2008/xaml/dataaccess"
-             xmlns:dxreportswizard="clr-namespace:DevExpress.XtraReports.Wizards;assembly=DevExpress.XtraReports.v22.2"
+             xmlns:dxreportswizard="clr-namespace:DevExpress.XtraReports.Wizards;assembly=DevExpress.XtraReports.v23.1"
              xmlns:local="clr-namespace:DisableMasterDetailWizard"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">

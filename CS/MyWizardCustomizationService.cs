@@ -1,4 +1,4 @@
-﻿using DevExpress.DataAccess.Wizard.Model;
+using DevExpress.DataAccess.Wizard.Model;
 using DevExpress.Xpf.DataAccess.DataSourceWizard;
 using DevExpress.Xpf.Reports.UserDesigner.ReportWizard;
 using DevExpress.XtraReports.UI;
